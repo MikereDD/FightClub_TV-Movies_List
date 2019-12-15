@@ -7,9 +7,9 @@ TV Series and Movies list for Fight Club TG Group
 # TV Series
 
 ## Amazon:
-* Catastrophe
-...
-[IMDB link](https://www.imdb.com/title/tt4374208/)
+* Catastrophe  
+
+* [IMDB link](https://www.imdb.com/title/tt4374208/)
 
 * Jack Ryan
   [IMDB link](https://www.imdb.com/title/tt5057054/)
