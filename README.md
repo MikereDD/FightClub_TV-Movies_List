@@ -31,3 +31,12 @@ TV Series and Movies list for Fight Club TG Group
 
 * Wisdom of the Crowd  -  [IMDB link](https://www.imdb.com/title/tt6522758/)
 
+## Disney+:
+* The Mandalorian  -  [IMDB link](https://www.imdb.com/title/tt8111088/)
+
+## Epix:
+* Berlin Station  -  [IMDB link](https://www.imdb.com/title/tt5191110/)
+
+* Godfather of Harlem  -  [IMDB link](https://www.imdb.com/title/tt8080122/)
+
+* Perpetual Grace LTD  -  [IMDB link](https://www.imdb.com/title/tt8912384/)
