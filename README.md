@@ -82,3 +82,35 @@ TV Series and Movies list for Fight Club TG Group
 * Watchmen  -  [IMDB link](https://www.imdb.com/title/tt7049682/)
 
 * Westworld  -  [IMDB link](https://www.imdb.com/title/tt0475784/)
+
+## Hulu:
+* 11.22.63  -  [IMDB link](https://www.imdb.com/title/tt2879552/)
+
+* Castle Rock  -  [IMDB link](https://www.imdb.com/title/tt6548228/)
+
+* Runaways  -  [IMDB link](https://www.imdb.com/title/tt1236246/)
+
+* The Handmaid's Tale  -  [IMDB link](https://www.imdb.com/title/tt5834204/)
+
+## NBC:
+* Blindspot  -  [IMDB link](https://www.imdb.com/title/tt4474344/)
+
+* Chuck  -  [IMDB link](https://www.imdb.com/title/tt0934814/)
+
+* Ellen's Game of Games  -  [IMDB link](https://www.imdb.com/title/tt7369770/)
+
+* Grimm  -  [IMDB link](https://www.imdb.com/title/tt1830617/)
+
+* Manifest  -  [IMDB link](https://www.imdb.com/title/tt8421350/)
+
+* New Amsterdam  -  [IMDB link](https://www.imdb.com/title/tt7817340/)
+
+* Shades of Blue  -  [IMDB link](https://www.imdb.com/title/tt4118584/)
+
+* The Good Place  -  [IMDB link](https://www.imdb.com/title/tt4955642/)
+
+* The Office  -  [IMDB link](https://www.imdb.com/title/tt0386676/)
+
+* This Is Us  -  [IMDB link](https://www.imdb.com/title/tt5555260/)
+
+* Timeless  -  [IMDB link](https://www.imdb.com/title/tt5511582/)
