@@ -8,6 +8,8 @@ TV Series and Movies list for Fight Club TG Group
 ## Amazon:
 * Catastrophe  -  [IMDB link](https://www.imdb.com/title/tt4374208/)
 
+* Electric Dreams  -  [IMDB link](https://www.imdb.com/title/tt5711280/)
+
 * Fleabag  -  [IMDB](https://www.imdb.com/title/tt5687612/)
 
 * Jack Ryan  -  [IMDB link](https://www.imdb.com/title/tt5057054/)
@@ -80,6 +82,9 @@ TV Series and Movies list for Fight Club TG Group
 
 * Wisdom of the Crowd  -  [IMDB link](https://www.imdb.com/title/tt6522758/)
 
+## Comedy Central
+* Broad City  -  [IMDB link](https://www.imdb.com/title/tt2578560/)
+
 ## Disney+:
 * The Mandalorian  -  [IMDB link](https://www.imdb.com/title/tt8111088/)
 
@@ -140,6 +145,9 @@ TV Series and Movies list for Fight Club TG Group
 * Runaways  -  [IMDB link](https://www.imdb.com/title/tt1236246/)
 
 * The Handmaid's Tale  -  [IMDB link](https://www.imdb.com/title/tt5834204/)
+
+## IFC:
+* Portlandia  -  [IMDB link](https://www.imdb.com/title/tt5711280/)
 
 ## NBC:
 * Blindspot  -  [IMDB link](https://www.imdb.com/title/tt4474344/)
