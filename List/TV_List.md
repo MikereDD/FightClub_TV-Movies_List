@@ -148,6 +148,8 @@ TV Series list for Fight Club TG Group
 
 * The Handmaid's Tale  -  [IMDB link](https://www.imdb.com/title/tt5834204/)
 
+* The Looming Tower  -  [IMDB](https://www.imdb.com/title/tt6474236/)
+
 ## IFC:
 * Portlandia  -  [IMDB link](https://www.imdb.com/title/tt5711280/)
 
@@ -206,6 +208,8 @@ TV Series list for Fight Club TG Group
 * Friends from College  -  [IMDB link](https://www.imdb.com/title/tt5565334/)
 
 * Glow  -  [IMDB link](https://www.imdb.com/title/tt5770786/)
+
+* Godless  -  [IMDB link](https://www.imdb.com/title/tt5516154/)
 
 * House of Cards  -  [IMDB link](https://www.imdb.com/title/tt1856010/)
 
