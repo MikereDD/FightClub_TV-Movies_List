@@ -325,7 +325,7 @@ TV Series list for Fight Club TG Group
 
 * Spartacus  -  [IMDB link](https://www.imdb.com/title/tt1442449/)
 
-## Syfy
+## Syfy:
 * The Magicians  -  [IMDB](https://www.imdb.com/title/tt4254242/)
 
 ## TNT Network:
