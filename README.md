@@ -91,6 +91,8 @@ TV Series and Movies list for Fight Club TG Group
 ## Epix:
 * Berlin Station  -  [IMDB link](https://www.imdb.com/title/tt5191110/)
 
+* Get Shorty  -  [IMDB link](https://www.imdb.com/title/tt5761496/)
+
 * Godfather of Harlem  -  [IMDB link](https://www.imdb.com/title/tt8080122/)
 
 * Perpetual Grace LTD  -  [IMDB link](https://www.imdb.com/title/tt8912384/)
