@@ -8,6 +8,8 @@ TV Series and Movies list for Fight Club TG Group
 ## Amazon:
 * Catastrophe  -  [IMDB link](https://www.imdb.com/title/tt4374208/)
 
+* Fleabag  -  [IMDB](https://www.imdb.com/title/tt5687612/)
+
 * Jack Ryan  -  [IMDB link](https://www.imdb.com/title/tt5057054/)
 
 * Modern Love  -  [IMDB link](https://www.imdb.com/title/tt8543390/)
@@ -19,6 +21,49 @@ TV Series and Movies list for Fight Club TG Group
 * The Man in the High Castle  -  [IMDB link](https://www.imdb.com/title/tt1740299/)
 
 * Tin Star  -  [IMDB link](https://www.imdb.com/title/tt4607112/)
+
+## BBC America
+* Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
+
+* Blue Planet Now  -  [IMDB link](https://www.imdb.com/title/tt11018438/)
+
+* Broadchurch  -  [IMDB link](https://www.imdb.com/title/tt2249364/)
+
+* Dirk Gently's Holistic Detective Agency  -  [IMDB link](https://www.imdb.com/title/tt4047038/)
+
+* Doctor Who  -  [IMDB link](https://www.imdb.com/title/tt0436992/)
+
+* Hotel Babylon  -  [IMDB link](https://www.imdb.com/title/tt0475047/)
+
+* Jekyll  -  [IMDB link](https://www.imdb.com/title/tt0497298/)
+
+* Killing Eve  -  [IMDB link](https://www.imdb.com/title/tt7016936/)
+
+* Life of Mars  -  [IMDB link](https://www.imdb.com/title/tt0478942/)
+
+* Luther  -  [IMDB link](https://www.imdb.com/title/tt1474684/)
+
+* Orphan Black  -  [IMDB link](https://www.imdb.com/title/tt2234222/)
+
+* Outcasts  -  [IMDB link](https://www.imdb.com/title/tt1697793/)
+
+* Peep Show  -  [IMDB link](https://www.imdb.com/title/tt0387764/)
+
+* Planet Earth  -  [IMDB link](https://www.imdb.com/title/tt0795176/)
+
+* Planet Earth II  -  [IMDB link](https://www.imdb.com/title/tt5491994/)
+
+* Primeval  -  [IMDB link](https://www.imdb.com/title/tt0808096/)
+
+* The Inbetweeners  -  [IMDB link]()
+
+* The Office  -  [IMDB link](https://www.imdb.com/title/tt0290978/)
+
+* The Tudors  -  [IMDB link](https://www.imdb.com/title/tt0758790/)
+
+* Top Gear America  -  [IMDB link](https://www.imdb.com/title/tt6959064/)
+
+* Torchwood  -  [IMDB link](https://www.imdb.com/title/tt0485301/)
 
 ## CBS:
 * Bull  -  [IMDB link](https://www.imdb.com/title/tt5827228/)
