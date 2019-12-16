@@ -18,6 +18,8 @@ TV Series and Movies list for Fight Club TG Group
 
 * The Boys  -  [IMDB link](https://www.imdb.com/title/tt1190634/)
 
+* The Expanse  -  [IMDB link](https://www.imdb.com/title/tt3230854/)
+
 * The Man in the High Castle  -  [IMDB link](https://www.imdb.com/title/tt1740299/)
 
 * Tin Star  -  [IMDB link](https://www.imdb.com/title/tt4607112/)
