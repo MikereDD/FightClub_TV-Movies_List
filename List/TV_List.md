@@ -135,6 +135,10 @@ TV Series list for Fight Club TG Group
 
 * True Detective (season 1 & 3 only)  -  [IMDB link](https://www.imdb.com/title/tt2356777/)
 
+* The Sopranos  -  [IMDB link](https://www.imdb.com/title/tt0141842/)
+
+* The Wire  -  [IMDB link](https://www.imdb.com/title/tt0306414/)
+
 * Watchmen  -  [IMDB link](https://www.imdb.com/title/tt7049682/)
 
 * Westworld  -  [IMDB link](https://www.imdb.com/title/tt0475784/)
@@ -148,7 +152,7 @@ TV Series list for Fight Club TG Group
 
 * The Handmaid's Tale  -  [IMDB link](https://www.imdb.com/title/tt5834204/)
 
-* The Looming Tower  -  [IMDB](https://www.imdb.com/title/tt6474236/)
+* The Looming Tower  -  [IMDB link](https://www.imdb.com/title/tt6474236/)
 
 ## IFC:
 * Portlandia  -  [IMDB link](https://www.imdb.com/title/tt5711280/)
