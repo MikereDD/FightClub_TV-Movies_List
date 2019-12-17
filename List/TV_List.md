@@ -26,6 +26,11 @@ TV Series list for Fight Club TG Group
 
 * Tin Star  -  [IMDB link](https://www.imdb.com/title/tt4607112/)
 
+## AMC:
+* Better Call Saul  -  [IMDB link](https://www.imdb.com/title/tt3032476/)
+
+* Breaking Bad  -  [IMDB link](https://www.imdb.com/title/tt0903747/)
+
 ## BBC America:
 * Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
 
@@ -105,6 +110,17 @@ TV Series list for Fight Club TG Group
 * The Last Man on Earth  -  [IMDB link](https://www.imdb.com/title/tt3230454/)
 
 * The Passage  -  [IMDB link](https://www.imdb.com/title/tt1074206/)
+
+## FX:
+* It's Always Sunny in Philadelphia  -  [IMDB link](https://www.imdb.com/title/tt0472954/)
+
+* Sons of Anarchy  -  [IMDB link](https://www.imdb.com/title/tt1124373/)
+
+* Taboo  -  [IMDB link](https://www.imdb.com/title/tt3647998/)
+
+* The Americans  -  [IMDB link](https://www.imdb.com/title/tt2149175/)
+
+* The Strain  -  [IMDB link](https://www.imdb.com/title/tt2654620/)
 
 ## HBO:
 * Ballers  -  [IMDB link](https://www.imdb.com/title/tt2891574/)
