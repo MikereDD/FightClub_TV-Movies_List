@@ -147,7 +147,11 @@ TV Series list for Fight Club TG Group
 
 * Band of Brothers  -  [IMDB link](https://www.imdb.com/title/tt0185906/)
 
+* Barry  -  [IMDB link](https://www.imdb.com/title/tt5348176/)
+
 * Big Little Lies  -  [IMDB link](https://www.imdb.com/title/tt3920596/)
+
+* Chernobyl  -  [IMDB link](https://www.imdb.com/title/tt7366338/)
 
 * Crashing  -  [IMDB link](https://www.imdb.com/title/tt5037914/)
 
