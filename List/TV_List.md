@@ -155,6 +155,8 @@ TV Series list for Fight Club TG Group
 
 * Crashing  -  [IMDB link](https://www.imdb.com/title/tt5037914/)
 
+* Curb Your Enthusiasm  -  [IMDB link](https://www.imdb.com/title/tt0264235/)
+
 * Eastbound and Down  -  [IMDB link](https://www.imdb.com/title/tt0866442/)
 
 * Entourage  -  [IMDB link](https://www.imdb.com/title/tt0387199/)
