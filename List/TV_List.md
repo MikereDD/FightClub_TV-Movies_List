@@ -31,6 +31,20 @@ TV Series list for Fight Club TG Group
 
 * Breaking Bad  -  [IMDB link](https://www.imdb.com/title/tt0903747/)
 
+* Fear the Walking Dead  -  [IMDB link](https://www.imdb.com/title/tt3743822/)
+
+* Halt and Catch Fire  -  [IMDB link](https://www.imdb.com/title/tt2543312/)
+
+* Into the Badlands  -  [IMDB link](https://www.imdb.com/title/tt3865236/)
+
+* Mad Men  -  [IMDB link](https://www.imdb.com/title/tt0804503/)
+
+* The Killing  -  [IMDB link](https://www.imdb.com/title/tt1637727/)
+
+* The Little Drummer Girl  -  [IMDB link](https://www.imdb.com/title/tt7598448/)
+
+* The Walking Dead (up to Season 9)  -  [IMDB link](https://www.imdb.com/title/tt1520211/)
+
 ## BBC America:
 * Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
 
@@ -89,6 +103,12 @@ TV Series list for Fight Club TG Group
 
 ## Comedy Central:
 * Broad City  -  [IMDB link](https://www.imdb.com/title/tt2578560/)
+
+* Chappelle's Show  -  [IMDB link](https://www.imdb.com/title/tt0353049/)
+
+* Drunk History  -  [IMDB link](https://www.imdb.com/title/tt2712612/)
+
+* Reno 911!  -  [IMDB link](https://www.imdb.com/title/tt0370194/)
 
 ## Disney+:
 * The Mandalorian  -  [IMDB link](https://www.imdb.com/title/tt8111088/)
