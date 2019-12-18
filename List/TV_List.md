@@ -45,6 +45,9 @@ TV Series list for Fight Club TG Group
 
 * The Walking Dead (up to Season 9)  -  [IMDB link](https://www.imdb.com/title/tt1520211/)
 
+## Apple:
+* For All Mankind  -  [IMDB link](https://www.imdb.com/title/tt7772588/)
+
 ## BBC America:
 * Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
 
