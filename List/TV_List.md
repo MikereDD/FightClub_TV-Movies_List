@@ -48,6 +48,12 @@ TV Series list for Fight Club TG Group
 ## Apple:
 * For All Mankind  -  [IMDB link](https://www.imdb.com/title/tt7772588/)
 
+* Servant  -  [IMDB link](https://www.imdb.com/title/tt8068860/)
+
+* The Morning Show  -  [IMDB link](https://www.imdb.com/title/tt7203552/)
+
+* Truth Be Told  -  [IMDB link](https://www.imdb.com/title/tt7821582/)
+
 ## BBC America:
 * Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
 
