@@ -294,6 +294,8 @@ TV Series list for Fight Club TG Group
 
 * Master of None  -  [IMDB link](https://www.imdb.com/title/tt4635276/)
 
+* Messiah  -  [IMDB link](https://www.imdb.com/title/tt7671598/)
+
 * Narcos  -  [IMDB link](https://www.imdb.com/title/tt2707408/)
 
 * Narcos: Mexico  -  [IMDB](https://www.imdb.com/title/tt8714904/)
