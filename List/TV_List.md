@@ -12,6 +12,8 @@ TV Series list for Fight Club TG Group
 
 * Fleabag  -  [IMDB](https://www.imdb.com/title/tt5687612/)
 
+* Fortitude  -  [IMDB link](https://www.imdb.com/title/tt3498622/)
+
 * Jack Ryan  -  [IMDB link](https://www.imdb.com/title/tt5057054/)
 
 * Modern Love  -  [IMDB link](https://www.imdb.com/title/tt8543390/)
@@ -53,6 +55,9 @@ TV Series list for Fight Club TG Group
 * The Morning Show  -  [IMDB link](https://www.imdb.com/title/tt7203552/)
 
 * Truth Be Told  -  [IMDB link](https://www.imdb.com/title/tt7821582/)
+
+## Audience:
+* Mr. Mercedes  -  [IMDB link](https://www.imdb.com/title/tt4354880/)
 
 ## BBC America:
 * Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
