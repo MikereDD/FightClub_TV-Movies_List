@@ -59,8 +59,8 @@ TV Series list for Fight Club TG Group
 ## Audience:
 * Mr. Mercedes  -  [IMDB link](https://www.imdb.com/title/tt4354880/)
 
-## BBC America:
-* Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
+## BBC:
+* Being Human UK  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
 
 * Blue Planet Now  -  [IMDB link](https://www.imdb.com/title/tt11018438/)
 
@@ -94,6 +94,8 @@ TV Series list for Fight Club TG Group
 
 * The Inbetweeners  -  [IMDB link]()
 
+* The Mighty Boosh  -  [IMDB link](https://www.imdb.com/title/tt0416394/)
+
 * The Office  -  [IMDB link](https://www.imdb.com/title/tt0290978/)
 
 * The Tudors  -  [IMDB link](https://www.imdb.com/title/tt0758790/)
@@ -101,12 +103,6 @@ TV Series list for Fight Club TG Group
 * Top Gear America  -  [IMDB link](https://www.imdb.com/title/tt6959064/)
 
 * Torchwood  -  [IMDB link](https://www.imdb.com/title/tt0485301/)
-
-## BBC Two:
-* Being Human  -  [IMDB link](https://www.imdb.com/title/tt1349938/)
-
-## BBC Three:
-* The Mighty Boosh  -  [IMDB link](https://www.imdb.com/title/tt0416394/)
 
 ## CBS:
 * Bull  -  [IMDB link](https://www.imdb.com/title/tt5827228/)
@@ -423,6 +419,8 @@ TV Series list for Fight Club TG Group
 * Spartacus  -  [IMDB link](https://www.imdb.com/title/tt1442449/)
 
 ## Syfy:
+* Being Human US  -  [IMDB link](https://www.imdb.com/title/tt1595680/)
+
 * The Magicians  -  [IMDB link](https://www.imdb.com/title/tt4254242/)
 
 ## TNT Network:
