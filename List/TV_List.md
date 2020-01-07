@@ -160,8 +160,22 @@ TV Series list for Fight Club TG Group
 
 * The Passage  -  [IMDB link](https://www.imdb.com/title/tt1074206/)
 
-## FX:
+## FX/X:
+* American Horror Story  -  [IMDB link](https://www.imdb.com/title/tt1844624/)
+
+* Archer  -  [IMDB link](https://www.imdb.com/title/tt1486217/)
+
+* Baskets  -  [IMDB link](https://www.imdb.com/title/tt3468798/)
+
+* Fargo  -  [IMDB link](https://www.imdb.com/title/tt2802850/)
+
 * It's Always Sunny in Philadelphia  -  [IMDB link](https://www.imdb.com/title/tt0472954/)
+
+* Legion  -  [IMDB link](https://www.imdb.com/title/tt5114356/)
+
+* Mr Inbetween  -  [IMDB link](https://www.imdb.com/title/tt7472896/)
+
+* Snowfall  -  [IMDB link](https://www.imdb.com/title/tt6439752/)
 
 * Sons of Anarchy  -  [IMDB link](https://www.imdb.com/title/tt1124373/)
 
@@ -172,6 +186,8 @@ TV Series list for Fight Club TG Group
 * The Strain  -  [IMDB link](https://www.imdb.com/title/tt2654620/)
 
 * What We Do In The Shadows  -  [IMDB link](https://www.imdb.com/title/tt7908628/)
+
+* You're The Worst  -  [IMDB link](https://www.imdb.com/title/tt3228420/)
 
 ## HBO:
 * Ballers  -  [IMDB link](https://www.imdb.com/title/tt2891574/)
