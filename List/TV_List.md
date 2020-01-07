@@ -171,6 +171,8 @@ TV Series list for Fight Club TG Group
 
 * The Strain  -  [IMDB link](https://www.imdb.com/title/tt2654620/)
 
+* What We Do In The Shadows  -  [IMDB link](https://www.imdb.com/title/tt7908628/)
+
 ## HBO:
 * Ballers  -  [IMDB link](https://www.imdb.com/title/tt2891574/)
 
