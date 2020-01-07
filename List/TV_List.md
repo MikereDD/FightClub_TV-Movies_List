@@ -124,6 +124,11 @@ TV Series list for Fight Club TG Group
 
 * Reno 911!  -  [IMDB link](https://www.imdb.com/title/tt0370194/)
 
+## DC:
+* Doom Patrol  -  [IMDB link](https://www.imdb.com/title/tt8416494/)
+
+* Titans  -  [IMDB link](https://www.imdb.com/title/tt1043813/)
+
 ## Disney+:
 * The Mandalorian  -  [IMDB link](https://www.imdb.com/title/tt8111088/)
 
@@ -134,7 +139,11 @@ TV Series list for Fight Club TG Group
 
 * Godfather of Harlem  -  [IMDB link](https://www.imdb.com/title/tt8080122/)
 
+* Pennyworth  -  [IMDB link](https://www.imdb.com/title/tt8425532/)
+
 * Perpetual Grace LTD  -  [IMDB link](https://www.imdb.com/title/tt8912384/)
+
+* War of the Worlds  -  [IMDB link](https://www.imdb.com/title/tt9686194/)
 
 ## FOX:
 * 24  -  [IMDB link](https://www.imdb.com/title/tt0285331/)
