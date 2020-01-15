@@ -8,6 +8,8 @@ TV Series list for Fight Club TG Group
 ## A&E:
 * Bates Motel  -  [IMDB link](https://www.imdb.com/title/tt2188671/)
 
+* The Returned  -  [IMDB link](https://www.imdb.com/title/tt3230780/)
+
 ## Amazon:
 * Catastrophe  -  [IMDB link](https://www.imdb.com/title/tt4374208/)
 
@@ -424,7 +426,11 @@ TV Series list for Fight Club TG Group
 * Spartacus  -  [IMDB link](https://www.imdb.com/title/tt1442449/)
 
 ## Syfy:
+* 12 Monkeys  -  [IMDB link](https://www.imdb.com/title/tt3148266/)
+
 * Being Human US  -  [IMDB link](https://www.imdb.com/title/tt1595680/)
+
+* Nightflyers  -  [IMDB link](https://www.imdb.com/title/tt6903284/)
 
 * The Magicians  -  [IMDB link](https://www.imdb.com/title/tt4254242/)
 
