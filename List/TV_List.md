@@ -412,6 +412,8 @@ TV Series list for Fight Club TG Group
 
 * Black Sails  -  [IMDB link](https://www.imdb.com/title/tt2375692/)
 
+* Counterpart  -  [IMDB link](https://www.imdb.com/title/tt4643084/)
+
 * Party Down  -  [IMDB link](https://www.imdb.com/title/tt1073507/)
 
 * Power  -  [IMDB link](https://www.imdb.com/title/tt3281796/)
