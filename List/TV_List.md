@@ -225,6 +225,8 @@ TV Series list for Fight Club TG Group
 
 * The Night Of  -  [IMDB link](https://www.imdb.com/title/tt2401256/)
 
+* The Outsider  -  [IMDB link](https://www.imdb.com/title/tt8550800/)
+
 * True Detective (season 1 & 3 only)  -  [IMDB link](https://www.imdb.com/title/tt2356777/)
 
 * The Sopranos  -  [IMDB link](https://www.imdb.com/title/tt0141842/)
@@ -398,15 +400,24 @@ TV Series list for Fight Club TG Group
 
 * Californication  -  [IMDB link](https://www.imdb.com/title/tt0904208/)
 
+* Dead Like Me  -  [IMDB link](https://www.imdb.com/title/tt0348913/)
+
 * Dexter  -  [IMDB link](https://www.imdb.com/title/tt0773262/)
 
 * Homeland  -  [IMDB link](https://www.imdb.com/title/tt1796960/)
 
 * House of Lies  -  [IMDB link](https://www.imdb.com/title/tt1797404/)
 
+
+* It's Garry Shandling's Show  -  [IMDB link](https://www.imdb.com/title/tt0090459/)
+
+* Penny Dreadful  -  [IMDB link](https://www.imdb.com/title/tt2628232/)
+
 * Ray Donovan  -  [IMDB link](https://www.imdb.com/title/tt2249007/)
 
 * Shameless  -  [IMDB link](https://www.imdb.com/title/tt1586680/)
+
+* The Tudors  -  [IMDB link](https://www.imdb.com/title/tt0758790/)
 
 * Weeds  -  [IMDB link](https://www.imdb.com/title/tt0439100/)
 
