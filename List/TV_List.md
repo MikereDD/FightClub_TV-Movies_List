@@ -254,6 +254,8 @@ TV Series list for Fight Club TG Group
 
 * Chuck  -  [IMDB link](https://www.imdb.com/title/tt0934814/)
 
+* Constantine  -  [IMDB link](https://www.imdb.com/title/tt3489184/)
+
 * Ellen's Game of Games  -  [IMDB link](https://www.imdb.com/title/tt7369770/)
 
 * Grimm  -  [IMDB link](https://www.imdb.com/title/tt1830617/)
