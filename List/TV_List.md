@@ -171,6 +171,8 @@ TV Series list for Fight Club TG Group
 
 * Mr Inbetween  -  [IMDB link](https://www.imdb.com/title/tt7472896/)
 
+* Prodigal Son  -  [IMDB link](https://www.imdb.com/title/tt10327354/)
+
 * Snowfall  -  [IMDB link](https://www.imdb.com/title/tt6439752/)
 
 * Sons of Anarchy  -  [IMDB link](https://www.imdb.com/title/tt1124373/)
