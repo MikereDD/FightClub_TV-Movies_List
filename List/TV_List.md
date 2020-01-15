@@ -152,6 +152,8 @@ TV Series list for Fight Club TG Group
 
 * New Girl  -  [IMDB link](https://www.imdb.com/title/tt1826940/)
 
+* Prodigal Son  -  [IMDB link](https://www.imdb.com/title/tt10327354/)
+
 * The Last Man on Earth  -  [IMDB link](https://www.imdb.com/title/tt3230454/)
 
 * The Passage  -  [IMDB link](https://www.imdb.com/title/tt1074206/)
@@ -170,8 +172,6 @@ TV Series list for Fight Club TG Group
 * Legion  -  [IMDB link](https://www.imdb.com/title/tt5114356/)
 
 * Mr Inbetween  -  [IMDB link](https://www.imdb.com/title/tt7472896/)
-
-* Prodigal Son  -  [IMDB link](https://www.imdb.com/title/tt10327354/)
 
 * Snowfall  -  [IMDB link](https://www.imdb.com/title/tt6439752/)
 
