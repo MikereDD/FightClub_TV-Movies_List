@@ -5,6 +5,9 @@ TV Series list for Fight Club TG Group
 
 # TV Series
 
+## A&E:
+* Bates Motel  -  [IMDB link](https://www.imdb.com/title/tt2188671/)
+
 ## Amazon:
 * Catastrophe  -  [IMDB link](https://www.imdb.com/title/tt4374208/)
 
