@@ -81,7 +81,7 @@ TV Series list for Fight Club TG Group
 
 * Killing Eve  -  [IMDB link](https://www.imdb.com/title/tt7016936/)
 
-* Life of Mars  -  [IMDB link](https://www.imdb.com/title/tt0478942/)
+* Life of Mars UK  -  [IMDB link](https://www.imdb.com/title/tt0478942/)
 
 * Luther  -  [IMDB link](https://www.imdb.com/title/tt1474684/)
 
@@ -101,9 +101,7 @@ TV Series list for Fight Club TG Group
 
 * The Mighty Boosh  -  [IMDB link](https://www.imdb.com/title/tt0416394/)
 
-* The Office  -  [IMDB link](https://www.imdb.com/title/tt0290978/)
-
-* The Tudors  -  [IMDB link](https://www.imdb.com/title/tt0758790/)
+* The Office UK  -  [IMDB link](https://www.imdb.com/title/tt0290978/)
 
 * Top Gear America  -  [IMDB link](https://www.imdb.com/title/tt6959064/)
 
