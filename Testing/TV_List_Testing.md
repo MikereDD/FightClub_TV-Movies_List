@@ -6,7 +6,7 @@ TV Series list for Fight Club TG Group
 # TV Series
 
 ## A&E:
-* ![Bates Motel](https://m.media-amazon.com/images/M/MV5BMzk4OTU5NTE2M15BMl5BanBnXkFtZTcwNTIxMDIyOQ@@._V1_SY1000_CR0,0,750,1000_AL_.jpg) Bates Motel  -  [IMDB link](https://www.imdb.com/title/tt2188671/)
+* <img src="https://m.media-amazon.com/images/M/MV5BMzk4OTU5NTE2M15BMl5BanBnXkFtZTcwNTIxMDIyOQ@@._V1_SY1000_CR0,0,750,1000_AL_.jpg" alt="Bates Motel Poster" width="100"/> Bates Motel  -  [IMDB link](https://www.imdb.com/title/tt2188671/)
 
 * The Returned  -  [IMDB link](https://www.imdb.com/title/tt3230780/)
 
