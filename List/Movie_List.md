@@ -7,8 +7,11 @@ Movies list for Fight Club TG Group
 
 ## Action Genre:
 * Seven Samurai (1954) - [IMDB link](https://www.imdb.com/title/tt0047478/)
+* The Dark Knight (2008) - [IMDB link](https://www.imdb.com/title/tt0468569/)
 
 ## Animation Genre:
+* Akira (1988) - [IMDB link](https://www.imdb.com/title/tt0094625/)
+* Spider-Man: Into the Spider-Verse (2018) - [IMDB link](https://www.imdb.com/title/tt4633694/)
 
 ## Comedy Genre::
 
@@ -20,6 +23,7 @@ Movies list for Fight Club TG Group
 * Barfly (1987) - [IMDB link](https://www.imdb.com/title/tt0092618/)
 * Dunkirk (2017) - [IMDB link](https://www.imdb.com/title/tt5013056/)
 * The Road (2009) - [IMDB link](https://www.imdb.com/title/tt0898367/)
+* The Shawshank Redemption (1994) - [IMDB link](https://www.imdb.com/title/tt0111161/)
 
 ## Experimental Genre:
 
