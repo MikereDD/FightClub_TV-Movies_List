@@ -6,6 +6,7 @@ Movies list for Fight Club TG Group
 # Movies
 
 ## Action Genre:
+* Seven Samurai (1954) - [IMDB link](https://www.imdb.com/title/tt0047478/)
 
 ## Animation Genre:
 
@@ -17,6 +18,7 @@ Movies list for Fight Club TG Group
 
 ## Drama Genre:
 * The Road (2009) - [IMDB link](https://www.imdb.com/title/tt0898367/)
+* Barfly (1987) - [IMDB link](https://www.imdb.com/title/tt0092618/)
 
 ## Experimental Genre:
 
@@ -25,6 +27,9 @@ Movies list for Fight Club TG Group
 ## Historical Genre:
 
 ## Horror Genre:
+
+## Mystery Genre:
+* Knives Out (2019) - [IMDB link](https://www.imdb.com/title/tt8946378/)
 
 ## Romance Genre:
 
