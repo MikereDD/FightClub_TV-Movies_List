@@ -1,4 +1,4 @@
-# FightClub TV List
+# FightClub Movie List
 Movies list for Fight Club TG Group
 
 ![Logo](https://raw.githubusercontent.com/MikereDD/FightClub_TV-Movies_List/master/img/fc-256x256.png)
