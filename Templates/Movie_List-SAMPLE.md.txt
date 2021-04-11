@@ -1,9 +1,50 @@
-# FightClub_TV-Movies_List
+# FightClub TV List
 Movies list for Fight Club TG Group
 
 ![Logo](https://raw.githubusercontent.com/MikereDD/FightClub_TV-Movies_List/master/img/fc-256x256.png)
 
 # Movies
 
-## Add Country of Origin:
-* Add Movie  -  [IMDB link](Add IMDB url)
+## Action Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Animation Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Comedy Genre::
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Crime Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Drama Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Experimental Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Fantasy Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Historical Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Horror Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Romance Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Science Fiction Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Thriller Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Western Genre:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+## Other Genres:
+* Add Movie Title  -  [IMDB link](Add IMDB url)
+
+### Movie list by MikereDD
