@@ -6,45 +6,45 @@ Movies list for Fight Club TG Group
 # Movies
 
 ## Action Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Animation Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Comedy Genre::
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Crime Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Drama Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Experimental Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Fantasy Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Historical Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Horror Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Romance Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Science Fiction Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Thriller Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Western Genre:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ## Other Genres:
-* Add Movie Title  -  [IMDB link](Add IMDB url)
+* Add Movie Title (Add Release Date)  -  [IMDB link](Add IMDB url)
 
 ### Movie list by MikereDD
