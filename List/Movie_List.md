@@ -25,6 +25,8 @@ Movies list for Fight Club TG Group
 ## Fantasy Genre:
 
 ## Historical Genre:
+* Adolf Hitler: The Greatest Story Never Told (2013) - [IMDB link](https://www.imdb.com/title/tt3526810/)
+* Hellstorm (2015) - [IMDB link](https://www.imdb.com/title/tt4661358/)
 
 ## Horror Genre:
 
