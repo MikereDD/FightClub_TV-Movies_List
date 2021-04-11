@@ -5,3 +5,4 @@ TV Series and Movies list for Fight Club TG Group
 
 ## [TV List](https://github.com/MikereDD/FightClub_TV-Movies_List/blob/master/List/TV_List.md)
 
+## [Movie List](https://github.com/MikereDD/FightClub_TV-Movies_List/blob/master/List/Movie_List.md)
